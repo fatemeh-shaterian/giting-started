@@ -1,0 +1,1 @@
+gettign stared with git
